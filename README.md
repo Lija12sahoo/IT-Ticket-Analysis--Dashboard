@@ -1,7 +1,9 @@
 🛠️ IT Tickets Analysis Dashboard
-Designed and developled by lija Sahoo
+Empowering IT support teams with data-driven visibility and actionable insights.
+
 🔍 Overview
 This Power BI dashboard provides a comprehensive analysis of IT support tickets across departments and locations. It enables leadership and support teams to monitor ticket trends, resolution efficiency, agent workload, and user satisfaction.
+
 With real-time filtering and dynamic KPIs, this dashboard simplifies operational decision-making and SLA management.
 
 📊 Key Metrics
@@ -23,17 +25,28 @@ Vertical bar chart showcasing department-wise ticket volumes, helping to spot op
 Donut charts for visualizing ticket distribution:
 
 🔥 By Severity (e.g., high-impact tickets)
+
 🧭 By Priority
+
 📑 By Ticket Type
+
 🚻 By Gender
+
 🎛️ Interactive Filters
 Severity
+
 Priority
+
 Ticket Type
+
 Satisfaction
+
 Departments
+
 Requestor Sentiment
+
 Filed Against
+
 These slicers allow for deep-dive filtering and personalized insights exploration.
 
 🧠 Strategic Benefits
@@ -52,7 +65,7 @@ Excel	Data Source (assumed)
 📌 How to Use
 Open project 3.pbix in Power BI Desktop
 
-Refresh the data
+Refresh the data (if applicable)
 
 Use filters on the left to explore specific segments
 
@@ -69,11 +82,9 @@ Agent-specific leaderboard
 
 Ticket escalation workflow visualization
 
-🙌 Author & Credits
-Dashboard Created By: [Lija Sahoo]
-
-Date Last Refreshed: 20-may-2025 20:06:29 PM
 🤝 Connect With Me
 💼 LinkedIn(https://www.linkedin.com/in/your-username)
-🐙 GitHub (https://github.com/Lija12sahoo/)
+
+🐙 GitHub(ttps://github.com/Lija12sahoo/)
+
 📧 Email: lija2000sahoo@gmail.com
